@@ -2,7 +2,7 @@
 
 Full-stack developer in the US. I build business software end to end: data model, API, UI, deployment.
 
-B.S. in Computer Science, University of Tennessee, Knoxville (expected September 2027). A.S. in Computer Science, Southern New Hampshire University.
+Southern New Hampshire University: A.S. in Computer Science (April 2026), B.S. in Computer Science (expected September 2027).
 
 ## Current work
 
