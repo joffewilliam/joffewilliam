@@ -2,6 +2,8 @@
 
 Full-stack developer in the US. I build business software end to end: data model, API, UI, deployment.
 
+B.S. in Computer Science, Southern New Hampshire University, expected September 2027.
+
 ## Current work
 
 - **Stockpile**: an ERP for metal and CNC job shops (quoting through invoicing, inventory, purchasing, production). FastAPI, PostgreSQL, React, Docker. Closed source and in production. [Write-up](https://github.com/joffewilliam/stockpile-showcase).
