@@ -4,6 +4,12 @@ Full-stack developer in the US. I build business software end to end: data model
 
 Southern New Hampshire University: A.S. in Computer Science (April 2026), B.S. in Computer Science (expected September 2027).
 
+Looking for new-grad software engineering roles starting fall 2027, and internships before then.
+
+## Background
+
+Before software: commercial drone pilot inspecting power infrastructure for utilities (2019 to 2021), then CDL-A truck driver, including running my own trucking company. I write software for the kind of operations I used to work in.
+
 ## Current work
 
 - **Stockpile**: an ERP for metal and CNC job shops (quoting through invoicing, inventory, purchasing, production). FastAPI, PostgreSQL, React, Docker. Closed source and in production. [Write-up](https://github.com/joffewilliam/stockpile-showcase).
